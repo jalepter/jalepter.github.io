@@ -243,6 +243,11 @@ nav {
   line-height: 21px;
 }
 
+.page9 {
+  padding: 18px 0 64px 0;
+  background-color: #1a1818;
+}
+
 /* line 185, ../../../../../Users/polzovatel/Desktop/Uber/src/sass/style.sass */
 .page3 {
   padding: 48px 0 80px 0;
